@@ -1,3 +1,0 @@
-101,Saffat,Cashier,20000.0
-140,Rafi Islam,Stock Clerk,15000.0
-103,Sayma Islam,Manager,25000.0
